@@ -3,5 +3,5 @@
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视中文" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="凤凰卫视",中文
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/test2_4000.m3u8
-#EXTINF:-1 tvg-name="频道名" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="XJWS",HD
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="台湾TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="TVBs",HD
+http://61.221.215.25:8800/hls/9/index.m3u8	
