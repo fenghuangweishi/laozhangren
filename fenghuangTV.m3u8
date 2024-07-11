@@ -23,11 +23,57 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 ,高清电影
 http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭电影
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226076/10000100000000060000000000352646_0.smil
+EXTINF:-1 ,ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 ,澳门有线 CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 ,澳门有线 CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 ,澳门有线互动新闻
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 ,澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 ,大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 ,大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 ,东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,好消息
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 ,好消息电视台
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 ,民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 ,台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,天映经典
+http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1 ,唯心电视台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 ,香港卫视
+http://anren.live/HK/BSJDUFpB.m3u8
+#EXTINF:-1 ,香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 ,耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 ,耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,中国环球电视
+http://live.cgtn.com/500/prog_index.m3u8
